@@ -41,9 +41,5 @@ The Shopping Mart Management System is a comprehensive software solution designe
 3. **Billing Process**: Generate invoices for customer purchases.
 4. **Sales Tracking**: View and analyze transaction history.
 
-## License
-This project is licensed under the MIT License.
 
-## Author
-Aryan
 
